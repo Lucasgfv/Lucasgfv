@@ -30,13 +30,19 @@ Estou em constante evolução, com foco em boas práticas, resolução de proble
 ![Express.js](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![REST API](https://img.shields.io/badge/-REST%20APIs-333333?style=flat&logo=rest&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E10098)
 
-<h3>☁️ &nbsp;Outras Ferramentas:</h3>
+<h3>☁️ &nbsp;Outras Ferramentas & DevOps:</h3>
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
-
+![NPM](https://img.shields.io/badge/-NPM-333333?style=flat&logo=npm)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-333333?style=flat&logo=jenkins&logoColor=D3330C)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello)
+![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
 </p>
