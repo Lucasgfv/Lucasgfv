@@ -9,7 +9,11 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-### 🤖 Linguagens e Tecnologias
+Sou um estudante de Engenharia de Software apaixonado por desenvolvimento de software.
+
+Tenho me dedicado ao aprendizado contínuo em JavaScript, React, Angular e bancos de dados SQL. Utilizo Docker e Git para versionamento e organização de projetos.
+
+Estou em constante evolução, com foco em boas práticas, resolução de problemas e desenvolvimento de aplicações web. Acredito que a comunicação e o trabalho em equipe são tão importantes quanto o conhecimento técnico para entregar soluções de qualidade.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
