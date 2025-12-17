@@ -28,7 +28,6 @@ Estou em constante evolução, com foco em boas práticas, resolução de proble
 ![Express.js](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![REST API](https://img.shields.io/badge/-REST%20APIs-333333?style=flat&logo=rest&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E10098)
 
 <h3>☁️ &nbsp;Outras Ferramentas & DevOps:</h3>
 
